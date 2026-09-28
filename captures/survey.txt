@@ -1,0 +1,44 @@
+what each sample ships, and what draws its screen
+
+sample                     servers   bundles   runtime_copy  mcp_server
+bench-instruments          1         1         0             ^2.1.1 
+board-over-serial          0         0         0             -
+booking-slots              1         1         0             ^2.1.1 
+call-review                0         1         0             -
+clinic-flow                1         1         0             ^2.1.1 
+closing-desk               0         1         0             -
+club-dues                  1         1         0             ^2.1.1 
+course-client              0         0         0             -
+course-server              0         0         0             ^2.1.1 
+course-ui                  0         1         0             -
+dashcam-boundary           1         1         0             ^2.1.1 
+deadline-board             1         1         0             ^2.1.1 
+declared-behaviour         0         1         0             -
+farm-log                   1         1         0             ^2.1.1 
+first-screen               1         0         0             ^2.1.1 
+grading-tool               1         1         0             ^2.1.1 
+greenhouse-independent     1         0         0             ^2.1.1 
+guarded-register           1         1         0             ^2.1.1 
+inherited-notebook         1         1         0             ^2.1.1 
+lcd-hmi                    2         0         0             ^2.1.1 
+line-report                0         1         0             -
+mcp-server-first           0         0         0             ^2.0.0 
+offline-orders             2         1         0             ^2.1.1 
+one-person-desk            1         1         0             ^2.1.1 
+one-runtime-survey         0         0         0             -
+pick-path                  1         1         0             ^2.1.1 
+plant-assistant            2         0         0             ^2.1.1 
+pos-kiosk-kds              1         1         0             ^2.1.1 
+push-kitchen               1         1         0             ^2.1.1 
+retry-backoff              1         1         0             ^2.1.1 
+scale-and-label            1         1         0             ^2.1.1 
+served-screen              1         0         0             ^2.1.1 
+shift-handover             1         1         0             ^2.1.1 
+store-bundle               1         1         0             ^2.1.1 
+taxi-dashboard             1         0         0             ^2.1.1 
+two-shops                  1         1         0             ^2.1.1 
+waiting-line               1         1         0             ^2.1.1 
+
+runtime copies inside the corpus: 0
+flutter apps inside the corpus: 0
+the screen is drawn by: AppPlayer (flutter_mcp_ui_runtime, published on pub.dev)
